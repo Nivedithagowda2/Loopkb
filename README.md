@@ -462,11 +462,7 @@ LoopKB directly addresses the track's focus on reusable agent skills, enterprise
 
 ---
 
-## Stage 1 Submission
 
-- **Prototype:** `[Figma / Prototype Link]`
-- **Demo Video:** `[Loom / YouTube / Vimeo Link]`
-- **Repository:** `[GitHub Repository Link]`
 
 ---
 
