@@ -3,7 +3,7 @@
 **Track 2 — Platform Agent Skills & Knowledge**
 **The Great Agent Hackathon | TGPF 2026**
 
-> Every difficult support ticket should make the next one easier. 
+> Every difficult support ticket should make the next one easier.  
  
 ---   
 
