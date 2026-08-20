@@ -1,5 +1,5 @@
 # LoopKB
-### A self-updating knowledge layer for enterprise support agents
+### A self-updating knowledge layer for enterprise support agents 
 **Track 2 — Platform Agent Skills & Knowledge**
 **The Great Agent Hackathon | TGPF 2026**
 
