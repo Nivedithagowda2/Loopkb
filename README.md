@@ -4,7 +4,7 @@
 **The Great Agent Hackathon | TGPF 2026**
 
 > Every difficult support ticket should make the next one easier.
-
+ 
 --- 
 
 ## The Problem
