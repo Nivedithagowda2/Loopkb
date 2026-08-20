@@ -7,7 +7,7 @@
  
 ---  
 
-## The Problem 
+## The Problem  
 
 Enterprise support teams have a silent knowledge leak.
 
