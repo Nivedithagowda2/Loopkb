@@ -6,7 +6,7 @@
 > Every difficult support ticket should make the next one easier.  
  
 ---   
-tdtctst hgd
+
 ## The Problem  
 
 Enterprise support teams have a silent knowledge leak.
