@@ -5,7 +5,7 @@
 
 > Every difficult support ticket should make the next one easier.  
  
----   
+---   in this on the tiuwgf iofu iqwf in this the groq of the k uq hoq iho ighi  hiug
 ## The Problem  
 
 Enterprise support teams have a silent knowledge leak.
