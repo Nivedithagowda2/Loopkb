@@ -5,7 +5,7 @@
 
 > Every difficult support ticket should make the next one easier.  
  
----   thisi i si si
+---   
 
 ## The Problem  
 
