@@ -156,7 +156,7 @@ Converts the extracted resolution into a clean, structured, reusable knowledge e
 Title: VPN returns 403 after certificate renewal
 Problem: VPN connects successfully, but internal applications
          return HTTP 403 after certificate renewal.
-Resolution: Restart the SecureTunnel service after certificate renewal.
+Resolution: Restart the SecureTunnel service after certificate renewal. 
 Evidence: Ticket #4821
 Confidence: 94%
 Status: Verify
